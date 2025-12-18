@@ -1,7 +1,7 @@
-topic) 기나'길' 항해의 출항을 선원들에게 안내하며.
+## **topic) 기나'길' 항해의 출항을 선원들에게 안내하며.** <br><br>
 
 > My blog offers an English version. Please check it out by clicking the link below.
-[For ENG VER](https://github.com/XaicuL/Dev.to/blob/main/ENG/intro4engmd).
+[For ENG VER](https://github.com/XaicuL/Dev.to/blob/main/ENG/intro4eng.md).
 
 ## Content 
 ### - 1. Who R Ü(ed-ing-Be going to)

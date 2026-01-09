@@ -2,7 +2,7 @@
 
 
 > My blog offers an English version. Please check it out by clicking the link below.
-[For ENG VER](http://www.google.co.kr).
+[For ENG VER](https://github.com/XaicuL/Dev.to/blob/main/ENG/).
 
 ## Content 
 ### - 1. 
